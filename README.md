@@ -20,7 +20,8 @@
 - Deploying and managing applications on cloud platforms [**Cloudflare, AWS**].
 
 ## 🏆 Prizes and achievements
-- **Runner-up** — *Nasa Space Apps Challenge*.  
+- **Runner-up** — *Nasa Space Apps Challenge*.
+- **Learnathon 3.0** — Ranked Among Top 6 on dedicated stack
 - Nationwide **Top 10** on *Kibo Robot Programming Challenge*.  
 
 ## 🧰 Side Hustle
